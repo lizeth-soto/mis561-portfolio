@@ -4,3 +4,4 @@ This will include all completed assignments in Excel, Tableau, PowerBI through D
 
 Initial E-Commerce Profitability Analysis: Develop a basic profitability set of dashboards and explain your design. Link to published Tableau workbook:
 https://public.tableau.com/views/FlexAssignment3_lizethsoto/ExplanatoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+This assignment was challenging as the analysis required to consider several factors affecting the profitability of the selected product subcategory.

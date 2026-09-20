@@ -8,4 +8,4 @@ This assignment was challenging as the analysis required to consider several fac
 
 Account Profitability and Service Tiers Analysis: Develop a chart to visualize effect of discount over gross margin, per account tier, in order to make decisions on account policies. Link to published Tableau workbook:
 https://public.tableau.com/views/AccountAnalysis_Soto_Lizeth/AppliedChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-This assignment really helped me increase my Tableau skills, as well as applying design concepts from the textbook. 
+If I did this assignment again, I would define the data elements with a quantifiable effect on the account policies from the start (discount over gross margin): I lost time trying to find out if cost to serve had correlation with gross margin.

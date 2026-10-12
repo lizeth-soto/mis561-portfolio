@@ -22,3 +22,12 @@ REDO: Account Profitability and Service Tiers Analysis: Develop a chart to visua
 https://public.tableau.com/views/FlexAssignment4_1AccountProfitabilityandServiceTiers/AppliedChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 I did this assignment again to make chart more legible and rewrite its justification.
 
+Advancing in Power BI for Data Visualization: Build a written case for a hiring manager from evidence in your own work, including which tool fits which 
+job and where your skills still have gaps. 
+https://public.tableau.com/views/PowerBITrainingCertifications_17905753997990/PowerBI-DataCampTrainingCertificates?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Sarah,
+After completing the Power BI courses, I am ready to join the business intelligence team, and I can show how Power BI would make both analyses I built self-serve.
+In Flex 3, I showed Anita where Tables discounts turn unprofitable with a 48-cell bubble grid (Segment × Region × Ship Mode). In Power BI, I would rebuild it as one scatter chart of discount against average profit per order, with conditional formatting coloring losses red and profits navy, a constant line labeled “20% cap,” and Segment and Region as slicers. Anita would read one panel instead of 48 cells, and the next data refresh would recolor any point that turns negative automatically.
+In Flex 4, I estimated net contribution for one fixed set of caps. In Power BI, the cap would be a what-if parameter and net contribution a measure, so Marcus could test other caps himself in the meeting.
+My division of labor: Excel for quick, one-time exploration; Tableau for one-off explanatory charts needing custom design or public sharing; and Power BI for reports that refresh on a schedule and that managers filter themselves.
+My gap is documentation. My Flex 3 cleaning was Excel edits I could only repeat from memory, so no one else could rerun my analysis without me. To close it, I would learn the team’s documentation standards first, then keep every cleaning step in Power Query, add a description to each measure, and give each report a short note covering its source, refresh schedule, and owner.

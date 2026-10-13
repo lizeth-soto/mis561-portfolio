@@ -25,10 +25,10 @@ I did this assignment again to make chart more legible and rewrite its justifica
 Advancing in Power BI for Data Visualization: Build a written case for a hiring manager from evidence in your own work, including which tool fits which 
 job and where your skills still have gaps. 
 https://public.tableau.com/views/PowerBITrainingCertifications_17905753997990/PowerBI-DataCampTrainingCertificates?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-Sarah, 
-After completing the Power BI courses, I am ready to join the Southwest’s business intelligence team, and use Power BI to make both of my analyses self-serve. 
-In Flex 3, I showed Anita where Tables discounts turn unprofitable with a 48-cell bubble grid (Segment × Region × Ship Mode). In Power BI, I would rebuild it as one scatter chart of discount against average profit per order, with conditional formatting coloring losses red and profits navy, a constant line labeled “20% cap,” and Segment and Region as slicers. Anita would read one panel instead of 48 cells, and each data refresh would automatically recolor any point that turns negative. 
-In Flex 4, I estimated net contribution for one fixed set of discount caps. In Power BI, the cap would be a what-if parameter and net contribution a measure, so Marcus could test other caps himself in the meeting. 
-My division of labor: Excel for quick, one-time exploration; Tableau for one-off explanatory charts needing custom design or public sharing; Power BI for scheduled-refresh reports that managers filter themselves. 
-My gap is experience with live company data. My Flex projects used static exports, so I have never managed scheduled refreshes or data that changes after publishing. To close it, I would first learn the team’s source systems and data dictionary, then shadow a teammate through a scheduled refresh, and rebuild one existing team report in a test workspace before sharing anything with managers. 
-I would welcome the chance to walk you through either rebuild. 
+Sarah,
+After completing the Power BI courses, I am ready to join Southwest’s business intelligence team and use Power BI to make both of my analyses self-serve.
+In Flex 3, I showed Anita where Tables’ discounts turn unprofitable with a 48-cell bubble grid (Segment × Region × Ship Mode). In Power BI, I would rebuild it as one scatter chart of discount against average profit per order, with conditional formatting coloring losses red and profits navy, a constant line labeled “20% cap,” and Segment and Region as slicers. Anita would read one panel instead of 48 cells, and each data refresh would automatically recolor any point that turns negative.
+In Flex 4, I estimated net contribution for one fixed set of caps. In Power BI, the cap would be a what-if parameter and net contribution a measure so that Marcus could test other caps himself in the meeting.
+I would divide the tools this way: Excel for quick, one-time exploration; Tableau for one-off explanatory charts needing custom design or public sharing; Power BI for scheduled-refresh reports that managers filter themselves.
+My gap is experience with live company data. My Flex projects used static exports, so I have never managed scheduled refreshes or data that changes after publishing. To close it, I would first learn the team’s source systems and data dictionary, then shadow a teammate through a scheduled refresh, and rebuild one existing team report in a test workspace before sharing anything with managers.
+I would welcome the chance to walk you through either rebuild.

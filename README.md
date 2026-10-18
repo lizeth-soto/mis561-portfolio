@@ -32,3 +32,7 @@ In Flex 4, I estimated net contribution for one fixed set of caps. In Power BI, 
 I would divide the tools this way: Excel for quick, one-time exploration; Tableau for one-off explanatory charts needing custom design or public sharing; Power BI for scheduled-refresh reports that managers filter themselves.
 My gap is experience with live company data, since my Flex projects used static exports and I have never managed scheduled refreshes or data that changes after publishing. To close it, I would first learn the team’s source systems and data dictionary, then shadow a teammate through a scheduled refresh, and rebuild one existing team report in a test workspace before sharing anything with managers.
 I would welcome the chance to walk you through either rebuild.
+
+Card Portfolio Review – Contactless Readiness | Which cards belong to the early replacement batch this quarter? (how many, what will it cost, evidence supporting the choice)
+https://public.tableau.com/views/CardPortfolio/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+If I were to redo this assignment, I would suggest alternatives according to budget ranges.

@@ -36,3 +36,7 @@ I would welcome the chance to walk you through either rebuild.
 Card Portfolio Review – Contactless Readiness | Which cards belong to the early replacement batch this quarter? (how many, what will it cost, evidence supporting the choice)
 https://public.tableau.com/views/CardPortfolio/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 If I were to redo this assignment, I would suggest alternatives according to budget ranges.
+
+Card Growth Analysis – Wildcat Rewards Offer | Where/To whom should the first pilot go?
+https://public.tableau.com/shared/83JKKRKG3?:display_count=n&:origin=viz_share_link
+If I were to redo this assignment, I’d ask Compliance early whether a generation-based pilot is allowed. Millennials kept the largest eligible pool at higher cutoffs (80 at 700, 49 at 720), but I ruled them out over fair-lending concerns about targeting by age.

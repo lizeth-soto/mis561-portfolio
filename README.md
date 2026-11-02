@@ -5,7 +5,8 @@ This will include all completed assignments in Excel, Tableau, PowerBI through D
 **1-NOV-2026 | Data Storytelling with Adobe Express**
 Work sample for Marcus Reyes, VP of Sales at Southwest Office Solutions: "Cap discounts by service tier to lift net contribution to an estimated $115,258"
 https://github.com/lizeth-soto/mis561-portfolio/blob/main/Adobe/soto-data-storytelling.pdf
-https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:751d25fc-22d3-55d7-ba6f-9029dfe0b8aa?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
+https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:60a8ff80-daa1-5da5-97ed-ef3a51bbc3b8?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
+
 
 Design Choice: I used a bar chart comparing current vs estimate net contribution per account tier so Marcus can see the impact of establishing the indicated discount cap on each account tier. I highlighted the current loss in the "Inside Sales" tier and added the improvements in the company targets that could happen assuming order volume holds after applying the suggested discount caps.I removed the chart title, using it as a caption instead so Marcus can read more quickly, and also I removed the client’s logo from the "Prepared For section"; the line already names Southwest and Marcus, and dropping it kept the reference band quiet so attention stays on the recommendation and chart.
 

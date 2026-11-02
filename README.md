@@ -9,12 +9,23 @@ https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:60a8ff80-daa1-5da5-97ed-ef3a5
 
 https://github.com/lizeth-soto/mis561-portfolio/blob/main/Adobe/soto-data-storytelling.pdf
 
-
-
-
 Design Choice: I used a bar chart comparing current vs estimate net contribution per account tier so Marcus can see the impact of establishing the indicated discount cap on each account tier. I highlighted the current loss in the "Inside Sales" tier and added the improvements in the company targets that could happen assuming order volume holds after applying the suggested discount caps.I removed the chart title, using it as a caption instead so Marcus can read more quickly, and also I removed the client’s logo from the "Prepared For section"; the line already names Southwest and Marcus, and dropping it kept the reference band quiet so attention stays on the recommendation and chart.
 
 Training completed: Nov. 1st, 2026
+
+I used **Claude** (Anthropic) as a design and charting assistant while building this one-page work sample.
+**What the AI did**
+- Suggested chart types for each part of the story (waterfall, unit/waffle chart, diverging change bars) and explained trade-offs between options.
+- Generated the chart images (SVG → PNG) from figures I provided, using my Evren brand palette and Montserrat font, and revised them based on my feedback (colors, label sizes, axis ranges, ordering).
+- Gave design critiques of my drafts (layout alignment, redundancy between panels, readability at poster size) and suggested small wording edits.
+- Checked that figures were consistent (e.g., tier gains summing to the $92K total; net contribution ratios against total profit).
+**What I did**
+- Performed the account-level analysis in Excel and Tableau and calculated all figures shown (net contribution by tier, discount-cap estimates, account counts, targets).
+- Developed the recommendation (per-tier discount caps of 14% / 14% / 18%).
+- Chose which charts to keep, directed all design changes, and assembled the final layout in Adobe Express.
+- Reviewed every chart and number before including it.
+
+All data and conclusions are my own; the AI did not access my data files.
 
 
 

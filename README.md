@@ -3,32 +3,21 @@ Data Visualization Course Portfolio.
 This will include all completed assignments in Excel, Tableau, PowerBI through DataCamp, Adobe Express, and various AI tools.
 
 **1-NOV-2026 | Data Storytelling with Adobe Express**
-Work sample for Marcus Reyes, VP of Sales at Southwest Office Solutions: "Cap discounts by service tier to lift net contribution to an estimated $115,258"
+Work sample for Marcus Reyes, VP of Sales at Southwest Office Solutions: "Cap discounts by service tier to lift net contribution to an estimated $115,258 | Applied to 2022–2025 orders, caps would have lifted net contribution nearly 5×, to an estimated $115,258"
 
 https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:751d25fc-22d3-55d7-ba6f-9029dfe0b8aa?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
 
 https://github.com/lizeth-soto/mis561-portfolio/blob/main/Adobe/soto-data-storytelling.pdf
 
-Design Choice: I used a bar chart comparing current vs estimate net contribution per account tier so Marcus can see the impact of establishing the indicated discount cap on each account tier. I highlighted the current loss in the "Inside Sales" tier and added the improvements in the company targets that could happen assuming order volume holds after applying the suggested discount caps.I removed the chart title, using it as a caption instead so Marcus can read more quickly, and also I removed the client’s logo from the "Prepared For section"; the line already names Southwest and Marcus, and dropping it kept the reference band quiet so attention stays on the recommendation and chart.
+Design Choice: I used a waterfall chart instead of a single before-and-after total, because Marcus is deciding where a discount policy pays off, and the waterfall shows that Inside Sales alone delivers $62.7K, or 68%, of the $92K gain. I removed the service tier definitions table from my draft; Marcus already knows how his accounts are tiered, and the space went to the Challenge panel, which shows that 133 of 359 Inside Sales accounts lose money today.
 
 **Training completed: Nov. 1st, 2026**
 Badge: https://www.credly.com/badges/ab157b6f-333e-44d4-8fd0-13115b91ad6b/public_url
 
 
-I used **Claude** (Anthropic) as a design and charting assistant while building this one-page work sample.
-**What the AI did**
-- Suggested chart types for each part of the story (waterfall, unit/waffle chart, diverging change bars) and explained trade-offs between options.
-- Generated the chart images (SVG → PNG) from figures I provided, using my Evren brand palette and Montserrat font, and revised them based on my feedback (colors, label sizes, axis ranges, ordering).
-- Gave design critiques of my drafts (layout alignment, redundancy between panels, readability at poster size) and suggested small wording edits.
-- Checked that figures were consistent (e.g., tier gains summing to the $92K total; net contribution ratios against total profit).
-**What I did**
-- Performed the account-level analysis in Excel and Tableau and calculated all figures shown (net contribution by tier, discount-cap estimates, account counts, targets).
-- Developed the recommendation (per-tier discount caps of 14% / 14% / 18%).
-- Chose which charts to keep, directed all design changes, and assembled the final layout in Adobe Express.
-- Reviewed every chart and number before including it.
-
+Anthropic. (2026). *Claude* (Opus 5.5) [Large language model]. https://claude.ai. Used Oct 31–Nov 2, 2026, to design brand logo, select fonts and color palette, review the page against the assignment rubric, check figures against my analysis table, suggest layout and font changes, and generate the Solution chart and brand mark images in Python. Prompts included: "Design logo for my Data Analytics Consulting brand, inspired by word "Evren" with in Turkish means cosmos. I want it to represent the motto "From chaos to order", "I would like to add a subtle image resembling my logo, but only the dots in the highlight colors forming the spiral, with a transparent background","I am concerned about the contrast when using the pale yellow. Can you create a chart with transparent background and black font?”,"suggest another title for the chart, just the text, indicating that is comparing the data from period 2022-2025 to the estimate according to the discount cap”
 All data and conclusions are my own; the AI did not access my data files.
-
+-----------------------------------------------------------------------------------
 
 
 **Initial E-Commerce Profitability Analysis:** Develop a basic profitability set of dashboards and explain your design. Link to published Tableau workbook:

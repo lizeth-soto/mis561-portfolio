@@ -11,14 +11,11 @@ https://github.com/lizeth-soto/mis561-portfolio/blob/main/Adobe/soto-data-storyt
 
 Design Choice: I used a waterfall chart instead of a single before-and-after total, because Marcus is deciding where a discount policy pays off, and the waterfall shows that Inside Sales alone delivers $62.7K, or 68%, of the $92K gain. I removed the service tier definitions table from my draft; Marcus already knows how his accounts are tiered, and the space went to the Challenge panel, which shows that 133 of 359 Inside Sales accounts lose money today.
 
-**Training completed: Nov. 1st, 2026**
+Training completed: Nov. 1st, 2026
 Badge: https://www.credly.com/badges/ab157b6f-333e-44d4-8fd0-13115b91ad6b/public_url
-
 
 Anthropic. (2026). *Claude* (Opus 5.5) [Large language model]. https://claude.ai. Used Oct 31–Nov 2, 2026, to design brand logo, select fonts and color palette, review the page against the assignment rubric, check figures against my analysis table, suggest layout and font changes, and generate the Solution chart and brand mark images in Python. Prompts included: "Design logo for my Data Analytics Consulting brand, inspired by word "Evren" with in Turkish means cosmos. I want it to represent the motto "From chaos to order", "I would like to add a subtle image resembling my logo, but only the dots in the highlight colors forming the spiral, with a transparent background","I am concerned about the contrast when using the pale yellow. Can you create a chart with transparent background and black font?”,"suggest another title for the chart, just the text, indicating that is comparing the data from period 2022-2025 to the estimate according to the discount cap”
 All data and conclusions are my own; the AI did not access my data files.
------------------------------------------------------------------------------------
-
 
 **Initial E-Commerce Profitability Analysis:** Develop a basic profitability set of dashboards and explain your design. Link to published Tableau workbook:
 https://public.tableau.com/views/FlexAssignment3_lizethsoto/ExplanatoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link

@@ -13,7 +13,7 @@ https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:009a149c-82d5-5b43-af25-1a5c8
 (PDF) 
 https://github.com/lizeth-soto/mis561-portfolio/blob/main/Adobe/soto-product-pitch.pdf
 
-Toughest objection: “What if the customers we move stop buying?” Slide 6 answers it: even if 30% of the 264 moved accounts leave, net contribution still rises by $70,187 over 2022–2025, and Phase 1 starts with 160 accounts, with Phase 2 paused if their orders fall more than 10%.
+Toughest objection: “What if the customers we move stop buying?” - I added extra slide 6 to answer it: even if 30% of the 264 moved accounts leave, net contribution still rises by $70,187 over 2022–2025, and Phase 1 starts with 160 accounts, with Phase 2 paused if their orders fall more than 10%.
 
 AI use: Claude (Anthropic, Claude Opus 5.5), Nov 15–16, 2026: deck layout suggestions; rendered the charts on slides 2, 4, 5 and 6, the one-page brief image and the Transition Monitor sample layout on slide 3 from my Excel calculations; reviewed grammar, number accuracy and contrast. No AI-generated people, photos or data.
 

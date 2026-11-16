@@ -6,8 +6,10 @@ This will include all completed assignments in Excel, Tableau, PowerBI through D
 Pitch to Marcus Reyes, VP of Sales at Southwest Office Solutions: approve Phase 1, moving 160 Inside Sales accounts under $3,000 to Self-Serve over four months.
 
 PITCH DECK
+
 Adobe Express
 https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:009a149c-82d5-5b43-af25-1a5c824baa50?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
+
 (PDF) 
 https://github.com/lizeth-soto/mis561-portfolio/blob/main/Adobe/soto-product-pitch.pdf
 

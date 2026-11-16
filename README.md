@@ -5,12 +5,15 @@ This will include all completed assignments in Excel, Tableau, PowerBI through D
 **November 16, 2026 · Product Pitch with Generative AI in Adobe Express**
 Pitch to Marcus Reyes, VP of Sales at Southwest Office Solutions: approve Phase 1, moving 160 Inside Sales accounts under $3,000 to Self-Serve over four months.
 
-Pitch deck (PDF) · Adobe Express
-[https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:009a149c-82d5-5b43-af25-1a5c824baa50?accept=true&invite=true&promoid=Z2G1FQKR&mv=other](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:009a149c-82d5-5b43-af25-1a5c824baa50?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+Pitch deck (PDF) 
+https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:009a149c-82d5-5b43-af25-1a5c824baa50?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
+Adobe Express
+
 
 Toughest objection: “What if the customers we move stop buying?” Slide 6 answers it: even if 30% of the 264 moved accounts leave, net contribution still rises by $70,187 over 2022–2025, and Phase 1 starts with 160 accounts, with Phase 2 paused if their orders fall more than 10%.
 
-AI use: Claude (Anthropic, Claude Opus 5.5), Nov 15–16, 2026: deck layout suggestions; rendered the charts on slides 2, 4, 5 and 6 and the one-page brief image on slide 3 from my Excel calculations; reviewed grammar, number accuracy and contrast. No AI-generated images, people or data.
+AI use: Claude (Anthropic, Claude Opus 5.5), Nov 15–16, 2026: deck layout suggestions; rendered the charts on slides 2, 4, 5 and 6, the one-page brief image and the Transition Monitor sample layout on slide 3 from my Excel calculations; reviewed grammar, number accuracy and contrast. No AI-generated people, photos or data.
+
 Training completed: 11/15/2026
 
 

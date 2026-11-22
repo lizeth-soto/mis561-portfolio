@@ -6,7 +6,7 @@ This will include all completed assignments in Excel, Tableau, PowerBI through D
 Rebranded a public IMDb movie dashboard, then built a brief for Priya Natarajan, Editorial Director for IMDb Originals: Should IMDb Originals fund a recurring video series on non-English-language movies, and which language should lead it?
 
 Tableau workbook
-https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17953302125300/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/lizeth.soto6104/viz/DataPlusMovies2000-2023_17953302125300/DataMoviesIMDBDashboard
 
 One thing I’d change: show the number of movies behind each percentage (e.g., 1,632 Hindi movies in 2012–2022) so the reader can see the rates rest on large groups
 AI use: 

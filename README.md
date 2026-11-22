@@ -2,6 +2,17 @@
 Data Visualization Course Portfolio.
 This will include all completed assignments in Excel, Tableau, PowerBI through DataCamp, Adobe Express, and various AI tools.
 
+**Month 22, 2026· Brand Standard Application in Tableau**
+Rebranded a public IMDb movie dashboard, then built a brief for Priya Natarajan, Editorial Director for IMDb Originals: Should IMDb Originals fund a recurring video series on non-English-language movies, and which language should lead it?
+
+Tableau workbook
+https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17953302125300/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+One thing I’d change: show the number of movies behind each percentage (e.g., 1,632 Hindi movies in 2012–2022) so the reader can see the rates rest on large groups
+AI use: 
+Claude (Anthropic, Claude Opus 5.5), November 2026, helped plan the analysis, troubleshoot Tableau steps, check text and design against the IMDb brand rules, and create the info and navigation button images. All figures were calculated in Tableau and verified by me.
+
+
 **November 16, 2026 · Product Pitch with Generative AI in Adobe Express**
 Pitch to Marcus Reyes, VP of Sales at Southwest Office Solutions: approve Phase 1, moving 160 Inside Sales accounts under $3,000 to Self-Serve over four months.
 
